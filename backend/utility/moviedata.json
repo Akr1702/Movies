@@ -1,0 +1,112 @@
+[
+    {
+        "name": "The Cosmic Adventure",
+        "genre": "Sci-Fi",
+        "rating": 8.5,
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "description": "A thrilling space exploration film with stunning visuals and deep character development.",
+        "price": "200 rupees"
+    },
+    {
+        "name": "Love in Paris",
+        "genre": "Romance",
+        "rating": 7.8,
+        "languages": [
+            "French",
+            "English"
+        ],
+        "description": "A heartwarming love story set in the romantic streets of Paris.",
+        "price": "250 rupees"
+    },
+    {
+        "name": "Mystery Manor",
+        "genre": "Thriller",
+        "rating": 7.2,
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "description": "A suspenseful thriller about a detective uncovering secrets in a haunted mansion.",
+        "price": "220 rupees"
+    },
+    {
+        "name": "The Last Warrior",
+        "genre": "Action",
+        "rating": 8.0,
+        "languages": [
+            "English",
+            "Hindi",
+            "Tamil"
+        ],
+        "description": "An epic action film about a warrior's journey to save his kingdom from an evil warlord.",
+        "price": "280 rupees"
+    },
+    {
+        "name": "Whispers of the Forest",
+        "genre": "Fantasy",
+        "rating": 8.3,
+        "languages": [
+            "English"
+        ],
+        "description": "A magical tale of a young girl who discovers an enchanted forest filled with mystical creatures.",
+        "price": "240 rupees"
+    },
+    {
+        "name": "The Silent Sea",
+        "genre": "Horror",
+        "rating": 7.5,
+        "languages": [
+            "English",
+            "Korean"
+        ],
+        "description": "A chilling horror film about a group of scientists who uncover dark secrets in the deep sea.",
+        "price": "230 rupees"
+    },
+    {
+        "name": "The Grand Heist",
+        "genre": "Crime",
+        "rating": 7.9,
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "description": "A thrilling crime drama about a group of skilled thieves planning an elaborate heist.",
+        "price": "260 rupees"
+    },
+    {
+        "name": "Echoes of Time",
+        "genre": "Drama",
+        "rating": 8.1,
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "description": "A poignant drama about a family's journey through love, loss, and redemption.",
+        "price": "210 rupees"
+    },
+    {
+        "name": "The Dragon's Curse",
+        "genre": "Fantasy",
+        "rating": 8.4,
+        "languages": [
+            "English",
+            "Mandarin"
+        ],
+        "description": "A fantasy adventure about a young hero's quest to break a dragon's curse and save his village.",
+        "price": "270 rupees"
+    },
+    {
+        "name": "Cyber City",
+        "genre": "Sci-Fi",
+        "rating": 7.7,
+        "languages": [
+            "English",
+            "Japanese"
+        ],
+        "description": "A futuristic sci-fi film set in a dystopian city where a hacker fights against a corrupt regime.",
+        "price": "250 rupees"
+    }
+]
