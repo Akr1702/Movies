@@ -2,7 +2,7 @@ const mongoose = require("mongoose")
 const movieCollection = require("../../models/MovieSchema")
 const getmoviecontroller = async (req, res) => {
     try {
-        const {_id,name} = req.params
+        const {id,name} = req.params
         
         let movies;
         
@@ -14,10 +14,10 @@ const getmoviecontroller = async (req, res) => {
            // return res.status(200).send({ message: "OK" })
         }
 
-        else if (_id) {
+        else if (id) {
             
             movies = await movieCollection.find({
-            _id:_id })
+            _id:id })
           //  return res.status(200).send({ message: "OK" })
         }
 
